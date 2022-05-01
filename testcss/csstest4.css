@@ -14,7 +14,7 @@ div{
     position: absolute;
     width: 245px;
     height: 160px;
-    background: url('../bk/1.png') no-repeat;
+    background: url('../photo/test4/1.png') no-repeat;
     background-size: 100% 100%;
     left: 62px;
     top: 25px;
@@ -37,7 +37,7 @@ div{
     position: absolute;
     width: 50px;
     height: 8px;
-    background: url('../bk/2.png') no-repeat;
+    background: url('../photo/test4/2.png') no-repeat;
     left: 333px;
     top: 55px;
     background-size: 60% 60%;
@@ -231,7 +231,7 @@ div{
 }
 .forth-title{
     position: absolute;
-    background: url('../bk/3.png') no-repeat;
+    background: url('../photo/test4/3.png') no-repeat;
     height: 18px;
     width: 5px;
     left: 14px;
@@ -239,7 +239,7 @@ div{
 }
 .forth-title1{
     position: absolute;
-    background: url('../bk/3.png') no-repeat;
+    background: url('../photo/test4/3.png') no-repeat;
     height: 18px;
     width: 5px;
     left: 320px;
