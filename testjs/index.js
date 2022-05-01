@@ -1,3 +1,5 @@
+window.onload=function()
+{
 var d=new Date();
 var p9=document.createElement("li");
 let p1 = document.getElementById("p1");
@@ -43,4 +45,5 @@ p7.onclick=function () {
     // console.log(box.width);
     box.width=window.innerWidth;
     // console.log(box.width);
+}
 }
