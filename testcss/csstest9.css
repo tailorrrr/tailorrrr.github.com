@@ -1,4 +1,6 @@
-
+li{
+    list-style: none;
+}
 .m-list {
     width: 600px;
     height: 350px;
