@@ -1,0 +1,44 @@
+.g-index {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #000000;
+    width: 400px;
+    height: 500px;
+}
+.g-blank {
+    margin-top: 20px;
+}
+.g-cnt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:12px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.ui-grid-2,.ui-grid-1,.ui-grid-7 {
+    border: 1px solid #000000;
+    margin: 0;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:12px;
+    font-weight: bold;
+}
+.g-foot {
+    position: absolute;
+    border: 1px solid black;
+    width: 70px;
+    height: 30px;
+    top: 520px;
+    left: 340px;
+    text-align: center;
+    line-height: 28px;
+    background: #88c26e;
+    color: #ffffff;
+}
+
+a {
+    padding: 50px;
+}
