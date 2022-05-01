@@ -5,12 +5,6 @@ li{
 	top:16px;
 	list-style-type: none;
 }
-.m-bg{
-	position: absolute;
-	top:0;
-	left:0;
-	opacity: 0.4;
-}
 .m-taobao{
 	width: 304px;
 	height: 440px;
