@@ -1,0 +1,362 @@
+body{
+    margin: 0;
+}
+
+div{
+    display: block;
+}
+div{
+    list-style: none;
+}
+
+
+.m-first{
+    position: absolute;
+    width: 245px;
+    height: 160px;
+    background: url('../bk/1.png') no-repeat;
+    background-size: 100% 100%;
+    left: 62px;
+    top: 25px;
+}
+
+.first-word{
+    float: left;
+    margin-left: 335px;
+    margin-top: 30px;
+    width: 250px;
+    height: 20px;
+}
+
+.word>li{
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size:small;
+}
+.first-down{
+    position: absolute;
+    width: 50px;
+    height: 8px;
+    background: url('../bk/2.png') no-repeat;
+    left: 333px;
+    top: 55px;
+    background-size: 60% 60%;
+}
+
+.first-word1{
+    position: absolute;
+    left: 334px;
+    top: 70px;
+    width: 230px;
+    height: 70px;
+}
+.word1>li{
+    word-wrap: break-word;
+    line-height: 17px;
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+.first-button{
+    position: absolute;
+    left: 333px;
+    top: 154.5px;
+    width: 100px;
+    height: 20px;
+}
+.button-word>li{
+    display: block;
+    border-radius: 3px;
+    background-color: rgb(24, 120, 209);
+    width: 100px;
+    height: 20px;
+}
+.button-word>li>label{
+    position: absolute;
+    left: 9px;
+    font-size: small;
+    color: aliceblue;
+}
+
+.second{
+    position: absolute;
+    top: 218px;
+    left: 63px; 
+    height: 33px;
+    border-bottom: 2px solid rgb(110, 99, 99);
+}
+.title>li>label{
+    float: left;
+    font-weight: bold;
+}
+.title>li>span{
+    float: left;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.sec-button{
+    margin-left: 426px;
+}
+.button-word1>li{
+    display: block;
+    background-color:rgb(24, 120, 209);
+    width: 73px;
+    height: 19px;
+    border-radius: 3px;
+}
+.button-word1>li>label{
+    position: absolute;
+    margin-left: 15px;
+    font-size: small;
+    color: aliceblue;
+}
+
+.third{
+    position: absolute;
+    top: 260px;
+    left: 50px;
+    height: 120px;
+    width: 400px;
+}
+.first-time{
+    height: 31px;
+    width: 511px;
+    border-bottom: 2px solid rgb(212, 212, 212);
+}
+.first-time>li{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.first-time>li>label{
+    font-size: xx-small;
+}
+.first-time>li>li1{
+    position: absolute;
+    background-color: rgb(0, 174, 255);
+    margin-left: 4px;
+    margin-top: 5px;
+    border-radius: 18px;
+    height: 12px;
+    width: 57px;
+}
+.first-time>li>li1>label{
+    position: absolute;
+    font-size: xx-small;
+    font-weight: bold;
+    top: -4px;
+    left: 21px;
+}
+.first-time>li>li1>u{
+    position: absolute;
+    font-size: smaller;
+    top: -6px;
+    left: 65px;
+}
+.second-time{
+    height: 31px;
+    width: 511px;
+    border-bottom: 2px solid rgb(212, 212, 212);
+}
+.second-time>li{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.second-time>li>label{
+    font-size: xx-small;
+}
+.second-time>li>li1{
+    position: absolute;
+    background-color: rgb(9, 126, 77);
+    margin-left: 4px;
+    margin-top: 5px;
+    border-radius: 18px;
+    height: 12px;
+    width: 57px;
+}
+.second-time>li>li1>label{
+    position: absolute;
+    font-size: xx-small;
+    font-weight: bold;
+    top: -4px;
+    left: 21px;
+}
+.second-time>li>li1>u{
+    position: absolute;
+    font-size: smaller;
+    top: -6px;
+    left: 65px;
+}
+.third-time{
+    height: 31px;
+    width: 511px;
+    border-bottom: 2px solid rgb(212, 212, 212);
+}
+.third-time>li{
+    margin-top: 11px;
+    margin-left: 2px;
+}
+.third-time>li>label{
+    font-size: xx-small;
+}
+.third-time>li>li1{
+    position: absolute;
+    background-color: rgb(9, 126, 77);
+    margin-left: 4px;
+    margin-top: 5px;
+    border-radius: 18px;
+    height: 12px;
+    width: 57px;
+}
+.third-time>li>li1>label{
+    position: absolute;
+    font-size: xx-small;
+    font-weight: bold;
+    top: -4px;
+    left: 21px;
+}
+.third-time>li>li1>u{
+    position: absolute;
+    font-size: smaller;
+    top: -6px;
+    left: 65px;
+}
+
+.forth{
+    position: absolute;
+    background-color: rgb(236, 236, 236);
+    top: 395px;
+    left: 10px;
+    width: 615px;
+    height: 210px;
+}
+.forth-title{
+    position: absolute;
+    background: url('../bk/3.png') no-repeat;
+    height: 18px;
+    width: 5px;
+    left: 14px;
+    top: 5px;
+}
+.forth-title1{
+    position: absolute;
+    background: url('../bk/3.png') no-repeat;
+    height: 18px;
+    width: 5px;
+    left: 320px;
+    top: 5px;
+}
+.title-word1{
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 25px;
+    height: 30px;
+    width: 500px;
+    color: rgb(4, 31, 119);
+}
+.title-word1>span1{
+    position: absolute;
+    margin-left: 183px;
+}
+.first_part{
+    position: absolute;
+    top: 35px;
+    left: 18px;
+    width: 266px;
+    height: 156px;
+    border: 2px solid rgb(88, 86, 86);
+    background-color: #fff;
+}
+.second_part{
+    position: absolute;
+    top: 35px;
+    left: 320px;
+    width: 266px;
+    height: 156px;
+    border: 2px solid rgb(88, 86, 86);
+    background-color: #fff;
+}
+
+.first_part>li1{
+    position: absolute;
+    margin-top: 9px;
+    width: 262px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.first_part>li2{
+    position: absolute;
+    margin-top: 32px;
+    width: 262px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    letter-spacing: -1px;
+    color: rgb(43, 118, 230);
+}
+.first_part>li3{
+    position: absolute;
+    margin-top: 69px;
+    width: 262px;
+    text-align: center;
+    font-size: x-small;
+}
+.first_part>li4{
+    position: absolute;
+    margin-top: 84px;
+    width: 262px;
+    height: 25px;
+    text-align: center;
+    font-size: x-small;
+    border-bottom: 1px solid rgb(138, 136, 136);
+}
+.first_part>li5{
+    position: absolute;
+    margin-top: 118px;
+    width: 262px;
+    text-align: center;
+    font-size: xx-small;
+    color: rgb(43, 118, 230);
+}
+.second_part>li1{
+    position: absolute;
+    margin-top: 33px;
+    left: 26px;
+    width: 216px;
+    height: 36px;
+    border-radius: 3px;
+    background-color:rgb(24, 120, 209);
+}
+.second_part>li1>label{
+    position: absolute;
+    width: 216px;
+    margin-top: 5px;
+    text-align: center;
+}
+.second_part>li1>span{
+    position:absolute;
+    left:198px;
+    top: 6px;
+}
+.second_part>li2{
+    position: absolute;
+    width: 262px;
+    margin-top: 75px;
+    text-align: center;
+    font-size: xx-small;
+}
+.second_part>li3{
+    position: absolute;
+    width: 262px;
+    margin-top: 89px;
+    text-align: center;
+    font-size: xx-small;
+}
+.second_part>li4{
+    position: absolute;
+    width: 262px;
+    margin-top: 104px;
+    text-align: center;
+    font-size: xx-small;
+}
