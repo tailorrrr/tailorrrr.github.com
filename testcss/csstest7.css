@@ -1,0 +1,126 @@
+body {
+    background: #ffffff;
+}
+.itemALL{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid #333333;
+    background: #f2f2f2;
+    height: 780px;
+    width: 1220px;
+}
+.item{
+    height: 370px;
+    width: 390px;
+    border: 1px solid #333333;
+}
+.item .word{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    flex-wrap: wrap;
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    height: 100px;
+    background: #ffe6f4;
+}
+.word>li1{
+    border: 1px solid #333333;
+    background: #ffffff;
+    height: 18px;
+    width: 360px;
+    padding: 1px 0 1px 10px;
+    font-size: 12px;
+  }
+  .word>li2{
+    border: 1px solid #333333;
+    background: #ffffff;
+    height: 18px;
+    width: 360px;
+    padding: 1px 0 1px 10px;
+    font-size: 12px;
+    color: #f71d4f;
+  }
+  .word>li3{
+    display: flex;
+    align-items: flex-end;
+    border: 1px solid #333333;
+    padding: 0 0 3px 10px;
+    background: #ffffff;
+    height: 27px;
+    width: 360px;
+    font-size: 12px;
+    color: #f71d4f;
+  }
+  .word>li3>li8{
+    color: #f71d4f;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .word>li3>li4{
+      color: #d1c4b4;
+      font-size: 12px;
+      text-decoration: line-through;
+  }
+  .word>li3>li7{
+      color: #f71d4f;
+      font-size: 12px;
+      font-weight: bold;
+      margin-left: auto;
+      
+    }
+    .word>li3>li5{
+      color: #d1c4b4;
+      font-size: 12px;
+      margin-right: 10px;
+  }
+  .word>li2>li6{
+      color: #d1c4b4;
+      font-size: 12px;
+  }
+
+  .item .picture1{
+    background: url('../photo/test5/1.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+.item .picture2{
+    background: url('../photo/test5/2.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+.item .picture3{
+    background: url('../photo/test5/3.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+.item .picture4{
+    background: url('../photo/test5/4.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+.item .picture5{
+    background: url('../photo/test5/5.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+.item .picture6{
+    background: url('../photo/test5/6.png') no-repeat;
+    height: 260px;
+    width: 390px;
+    background-size: 100% 100%;
+}
+
+.present{
+    position: absolute;
+    background: url('../photo/test5/7.png') no-repeat;
+    height: 12px;
+    width: 13px;
+}
